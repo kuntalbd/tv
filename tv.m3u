@@ -163,6 +163,48 @@ http://172.22.22.76/live/feed1005/index.m3u8
 #EXTINF:-1 group-title="Mazeda", Channel 5
 http://172.22.22.76/live/feed1006/index.m3u8
 
+#EXTINF:-1 group-title="EBOX", Titas Sports
+http://tv.ebox.live:8081/thunderbd/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjQwOjM0IEFNJmhhc2hfdmFsdWU9S2RFM2RLMDhsZkYwV2FQV0FzUElsdz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 group-title="EBOX", Titas Sports Chunks
+http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=3881308&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjQwOjM0IEFNJmhhc2hfdmFsdWU9S2RFM2RLMDhsZkYwV2FQV0FzUElsdz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 group-title="EBOX", Titas Sports 2
+http://tv.ebox.live:8081/thunderbd/102/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjQyOjMwIEFNJmhhc2hfdmFsdWU9eElGU1pFUm50YytoaDRyL3lhVExUUT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 group-title="EBOX", Somoy Tv
+http://tv.ebox.live:8081/thunderbd/17/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjQzOjE3IEFNJmhhc2hfdmFsdWU9ZUY1QTc0MzBxOTM3SEhEbHlkcWlkQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 group-title="EBOX", Ekattor Tv
+http://tv.ebox.live:8081/thunderbd/11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjQ0OjA2IEFNJmhhc2hfdmFsdWU9cG8wOVVENDJkdlo2eENudWtPeW1GQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
