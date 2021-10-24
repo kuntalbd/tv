@@ -8,5 +8,120 @@ http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 #EXTINF:-1 group-title="ICC FTP", ATN Bangla
 http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 
-#EXTINF:-1 group-title="ICC FTP", ATN News
-http://10.16.100.208:8082/hindi/aTnNews_1stop.m3u8
+#EXTINF:-1 group-title="ICC FTP", Bangla Tv
+http://10.16.100.208:8082/hindi/BanglaTV_1stop.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Bangla Vision
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Bijoy Tv
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Boishakhi Tv
+http://10.16.100.203:8082/bangla/boishakhi.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", BTV
+http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Channel 24
+http://10.16.100.208:8082/hindi/chaNNel24_1sTop.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Channel 9
+http://10.16.100.208:8082/hindi/cHAnneLNiNe_1Stop.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Channel I
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", DBC News
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Deepto
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+
+
+#EXTINF:-1 group-title="ICC FTP", Desh Tv
+http://10.16.100.208:8082/hindi/de$htV_1sTop.m3u8
+
+
+#EXTINF:-1 group-title="ICC FTP", Ekattor Tv
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+
+
+#EXTINF:-1 group-title="ICC FTP", Ekushe TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+
+
+#EXTINF:-1 group-title="ICC FTP", Gaan Bangla
+http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", GTV 1
+http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", GTV 2
+http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", GTV 3
+http://10.16.100.213:8080/hls/gtv_bsl.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", GTV 4
+http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", GTV 5
+http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", GTV 6
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", GTV 7
+http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Jamuna Tv
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Machranga Tv
+http://10.16.100.205:8082/bangla/maasRanga_1Stop.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Mohona Tv
+http://10.16.100.205:8082/bangla/moHOn@_1$top.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", My Tv
+http://10.16.100.205:8082/bangla/mYtv_1$top.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", NTV
+http://10.16.100.205:8082/bangla/NTv_1StOp.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Nagorik Tv
+http://10.16.100.205:8082/bangla/n@gOrik_1$tOp.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", News 24
+http://10.16.100.205:8082/bangla/nEw$24_1stOp.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", RTV
+http://10.16.100.203:8082/bangla/rTV_local.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", SA TV
+http://10.16.100.208:8082/hindi/s@tv_1$top.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Somoy Tv
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Titas Sports 1
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Titas Sports 2
+http://10.16.100.245/hindi/T_Sports.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Titas Sports 3
+http://10.16.100.213:8080/hls/tsports.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Titas Sports 4
+http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Titas Sports 5
+http://10.16.100.245/hindi/t$sports_1stOp.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Titas Sports 6
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Titas Sports 7
+http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
