@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 group-title="ICC FTP", Ananda Tv
+http://10.16.100.205:8082/bangla/anadatv_1stop.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", Asian Tv
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", ATN Bangla
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+
+#EXTINF:-1 group-title="ICC FTP", ATN News
+http://10.16.100.208:8082/hindi/aTnNews_1stop.m3u8
