@@ -125,3 +125,20 @@ http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 
 #EXTINF:-1 group-title="ICC FTP", Titas Sports 7
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+
+
+#EXTINF:-1 group-title="DFLIX", Sony Six
+http://edge.thunderbd.com:8081/roarzone/24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjIwOjQyIEFNJmhhc2hfdmFsdWU9ZmY5K0JVNDVscFdGb3FLN1RoczhmZz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 group-title="DFLIX", GTV
+http://edge.thunderbd.com:8081/roarzone/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjI3OjEwIEFNJmhhc2hfdmFsdWU9clhIbXpmdm91RjBDL1JHM000R2F2UT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 group-title="DFLIX", Titas Sports
+http://edge.thunderbd.com:8081/roarzone/102/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjI4OjQ2IEFNJmhhc2hfdmFsdWU9ZEY5VSs2eE1EdytxYlJVellsRGZiUT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 group-title="DFLIX", Zee Bangla
+http://edge.thunderbd.com:8081/roarzone/34/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjI5OjE2IEFNJmhhc2hfdmFsdWU9b2Fqc0NkdXpOcDB5a1dkbmdDd0k3Zz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 group-title="DFLIX", Duronto Tv
+http://edge.thunderbd.com:8081/roarzone/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjMwOjMwIEFNJmhhc2hfdmFsdWU9VnNNUXA5NnVpRGxGTldoU0l1ODFiQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
