@@ -142,3 +142,28 @@ http://edge.thunderbd.com:8081/roarzone/34/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 #EXTINF:-1 group-title="DFLIX", Duronto Tv
 http://edge.thunderbd.com:8081/roarzone/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjMwOjMwIEFNJmhhc2hfdmFsdWU9VnNNUXA5NnVpRGxGTldoU0l1ODFiQT09JnZhbGlkbWludXRlcz02MCZpZD01
 
+#EXTINF:-1 group-title="IHUB", GTV
+http://cdn.ihub.live:8082/j-GTV/index.m3u8?token=0098aacc80fee6f78f8dd0765a101a81b7a240d5-4a9bd5da4d1cbd2c4e1769beef164090-1635074855-1635064055
+
+#EXTINF:-1 group-title="IHUB", Titas Sports
+http://cdn.ihub.live:8082/j-TSports/index.m3u8?token=4c4b0a6051d77c1e1f999dbe796af49a8cdf7115-31063cd5f7230bb59816b0e1660e58bb-1635074940-1635064140
+
+#EXTINF:-1 group-title="Mazeda", Channel 1
+http://172.22.22.76/live/feed1002/index.m3u8
+
+#EXTINF:-1 group-title="Mazeda", Channel 2
+http://172.22.22.76/live/feed1003/index.m3u8
+
+#EXTINF:-1 group-title="Mazeda", Channel 3
+http://172.22.22.76/live/feed1004/index.m3u8
+
+#EXTINF:-1 group-title="Mazeda", Channel 4
+http://172.22.22.76/live/feed1005/index.m3u8
+
+#EXTINF:-1 group-title="Mazeda", Channel 5
+http://172.22.22.76/live/feed1006/index.m3u8
+
+
+
+
+
